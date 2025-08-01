@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="left">Hi 👋, I'm Mya Barragan</h1>
+<h3 align="left">An aspiring Data Scientist with hands-on experience in organizing data and creating large language models. I prioritize learning, developing, and problem solving in all things tech.</h3>
 
-<!--
-**myabarragan/myabarragan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Bachelors of Science at **California State University, Long Beach**
 
-Here are some ideas to get you started:
+- 💻 Interests: **Machine Learning, Data Science, Game Programming**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **https://www.linkedin.com/in/myaabarragan/**
+
+**Languages:** Python, C, C++, C#, Haskell
+
+**Machine Learning and AI:** PyTorch, scikit_learn, pandas, seaborn,  NumPy, Tableau, Excel
+
+**Other:** Linux, Git, Arduino
